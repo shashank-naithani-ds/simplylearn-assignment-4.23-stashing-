@@ -1,1 +1,4 @@
 this is file a
+This is edited in the featureOne Branch
+This is the line stashed.
+
